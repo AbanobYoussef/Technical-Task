@@ -1,0 +1,9 @@
+D:\Technical Task\Technical Task\bin\Debug\Technical Task.exe.config
+D:\Technical Task\Technical Task\obj\Debug\Technical Task.csprojResolveAssemblyReference.cache
+D:\Technical Task\Technical Task\obj\Debug\Technical_Task.Form1.resources
+D:\Technical Task\Technical Task\obj\Debug\Technical_Task.Properties.Resources.resources
+D:\Technical Task\Technical Task\obj\Debug\Technical Task.csproj.GenerateResource.Cache
+D:\Technical Task\Technical Task\bin\Debug\Technical Task.exe
+D:\Technical Task\Technical Task\bin\Debug\Technical Task.pdb
+D:\Technical Task\Technical Task\obj\Debug\Technical Task.exe
+D:\Technical Task\Technical Task\obj\Debug\Technical Task.pdb
